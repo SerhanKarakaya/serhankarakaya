@@ -21,6 +21,7 @@ I am an experienced developer and I focused on Front-end web development. Some o
 	<li>Version Control Systems (GIT, SVN)</li>
 	<li>JS Unit Testing (Karma, Mocha, Sinon, Headless Browsers)</li>
 	<li>Project & process management (6 sigma, Scrum, Agile, Lean)</li>
+	<li>Wordpress & WooCommerce installment and development</li>
 </ul>
 
 I always improved my people & process management skills and now i am developing myself at managing side of the business for more than 5 years.
