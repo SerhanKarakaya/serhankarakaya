@@ -21,8 +21,9 @@ I am an experienced developer and I focused on Front-end web development. Some o
 	<li>Version Control Systems (GIT, SVN)</li>
 	<li>JS Unit Testing (Karma, Mocha, Sinon, Headless Browsers)</li>
 	<li>Project & process management (6 sigma, Scrum, Agile, Lean)</li>
-	<li>I always improved my people & process management skills and now i am developing myself at managing side of the business for more than 5 years.</li>
 </ul>
+
+I always improved my people & process management skills and now i am developing myself at managing side of the business for more than 5 years.
 
 Once upon a time, a close friend of mine told me that i am like a “swiss army knife” because I can do lots of thing with success and I am good at multitasking.
 
