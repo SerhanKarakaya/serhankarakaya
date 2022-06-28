@@ -30,3 +30,5 @@ Once upon a time, a close friend of mine told me that i am like a “swiss army 
 I like smart objects and the beauty of the simplicity. There is a phrase that i love in these days:
 
 “It seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove.”
+
+<strong><i>Antoine de Saint Exupéry</i></strong>
