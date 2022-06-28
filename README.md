@@ -14,7 +14,7 @@ I am an experienced developer and I focused on Front-end web development. Some o
 <ul>
 	<li>HTML (HAML)</li>
 	<li>CSS (LESS, SASS)</li>
-	<li>JS (Vanilla, Angular, Jquery, ChartJs etc.)</li>
+	<li>JS (Vanilla, AngularJS, Jquery, ChartJs etc.)</li>
 	<li>Web Fonts & Icon Fonts (Google web fonts, Font Awesome, my own converted web-fonts etc.)</li>
 	<li>Responsive UI’s (Bootstrap, Skaleton, and I can code them from scratch)</li>
 	<li>Node.js (NPM, Bower, Grunt, Gulp)</li>
